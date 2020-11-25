@@ -1,5 +1,8 @@
 _repo: The-Boy-Miners-The-Enchanted-Island-A-Tale-of-the-Yellowstone-Country_63868
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63868-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2569
     wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63868#The-Boy-Miners-The-Enchanted-Island-A-Tale-of-the-Yellowstone-Country
 gutenberg_issued: '2020-11-23'
 gutenberg_type: Text
 identifiers:
